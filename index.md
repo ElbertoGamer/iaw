@@ -1,6 +1,6 @@
 # Sitio web de Implantación de aplicaciones web
-**Alberto Coterillo González**  
-**Curso 2024/25**
+## Alberto Coterillo González  
+### Curso 2024/25
 
 ## Unidad 1: Preparación del entorno de desarrollo y servidores de aplicaciones web
 
