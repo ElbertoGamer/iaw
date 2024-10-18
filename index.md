@@ -4,7 +4,7 @@
 
 ## Unidad 1: Preparación del entorno de desarrollo y servidores de aplicaciones web
 
-- [Ejercicio 1](unidad1/ejercicio1.md)
-- [Ejercicio 2](unidad1/ejercicio2.md)
-- [Ejercicio 3](unidad1/ejercicio3.md)
-- [Ejercicio 4](unidad1/ejercicio4.md)
+- [Ejercicio 1](unidad1/ejercicio1.md) : (*Resolución del Ejercicio 1*)
+- [Ejercicio 2](unidad1/ejercicio2.md) : (*Resolución del Ejercicio 2*)
+- [Ejercicio 3](unidad1/ejercicio3.md) : (*Resolución del Ejercicio 3*)
+- [Ejercicio 4](unidad1/ejercicio4.md) : (*Resolución del Ejercicio 4*)
